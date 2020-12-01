@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: white;
+    width: 550px;
+    height: 400px;
+    margin-left: 30%;
+    margin-top: 10%;
+
+}
+.head{
+    margin:10px;
+    
+}
+.logo{
+    float:right;
+    margin:10px;
+    height: 75px;
+    width: 75px;
+    
+}
+
+.texts{
+   height: 75px;
+    width: 250px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.second{
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+.in{
+display: grid;
+width: 250px;
+height: 175px;
+float: right;
+
+}
+input{
+    width: 200px;
+    padding: 5px;
+    margin:10px;
+    
+}
+p{
+    margin:5px;
+}
+button{
+    margin-left: 235px;
+    border-radius: 10px;
+    font-size: 25px;
+    border-color: none;
+}
